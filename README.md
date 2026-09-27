@@ -11,6 +11,7 @@ I'm passionate about Backend Development, Cloud Computing, and Data Analysis. I 
 - 📚 Improving my skills in Python, FastAPI, SQL, and Power BI
 - 💼 Seeking opportunities in Software Development, Cloud Computing, and Data Analysis
 
+<h2>🛠 Tech Stack</h2>
 <h3>Backend</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,fastapi,line=12" /></a>
 <h3>Frontend</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindline=12" /></a>
 <h3>Additional knowledge</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,java,line=12" /></a>
