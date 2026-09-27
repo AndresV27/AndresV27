@@ -27,3 +27,8 @@ I'm passionate about Backend Development, Cloud Computing, and Data Analysis. I 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+
+![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresV27&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AndresV27&theme=tokyonight)
+
