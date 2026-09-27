@@ -19,16 +19,11 @@ I'm passionate about Backend Development, Cloud Computing, and Data Analysis. I 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+<h3>Cloud (Learning)</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=aws,azure,docker,line=12" /></a>
 <h3>Database</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,line=12" /></a>
-<h3>Tools</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,line=12" /></a>
+<h3>Tools</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jira,line=12" /></a>
 <h3> Collaboration</h3>
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-
-<h3>Cloud (Learning)</h3>  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=aws,azure,line=12" /></a>
-
-
 
